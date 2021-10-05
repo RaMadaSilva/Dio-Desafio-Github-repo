@@ -1,0 +1,8 @@
+Mateiras uteis 
+Passos para realizar um comite  via git
+
+acessar ao Servidor remoto
+
+Carregar um processo e adicionar ao servidor remoto
+
+comandos 
